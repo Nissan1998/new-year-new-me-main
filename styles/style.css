@@ -1,0 +1,35 @@
+.header{
+    width: 1350px;
+    height: 808px;
+    background-image: url(../images/banner/banner3.png);
+}
+.banner{
+   text-align: right;
+    color: antiquewhite;
+}
+.banner-title{
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+width: 500px;
+margin-left: 750px ;
+padding-top: 250px;
+
+}
+.banner-para{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+width: 300px;
+text-align: center;
+margin-left: 950px;
+}
+.banner-button{
+width: 160px;
+height: 64px;
+border: none;
+border-radius: 5px;
+text-align: center;
+font-size: 20px;
+margin-right: 150px;
+}
