@@ -2,6 +2,7 @@
     width: 1350px;
     height: 808px;
     background-image: url(../images/banner/banner3.png);
+    margin-bottom: 200px;
 }
 .banner{
    text-align: right;
@@ -32,4 +33,25 @@ border-radius: 5px;
 text-align: center;
 font-size: 20px;
 margin-right: 150px;
+}
+.contaner ,ul{
+    display: flex;
+    list-style: none; 
+    justify-items: center;
+}
+.person-title{
+    width: 300px;
+    font-size: 40px;
+    text-align:left;
+    padding-top: 300px;
+    margin-left: 30px;
+}
+.person-para{
+    width: 300px;
+    margin-left: 30px;
+}
+.checked{
+    display: block;
+    list-style:circle;
+    margin-left: 5px;
 }
